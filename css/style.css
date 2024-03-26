@@ -2,7 +2,7 @@
 * {
     margin: auto;
 }
-.cabecalho h1 {
+.cabecalho{
     background-color: blue;
 }
 
@@ -22,8 +22,12 @@ nav {
     line-height: 1.5;
 }
 
-
-
+.formulario {
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    padding: 10px;
+}
 
 
 
