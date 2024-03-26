@@ -3,7 +3,7 @@
     margin: auto;
 }
 .cabecalho{
-    background-color: blue;
+    background-color: rgb(72, 136, 255);
 }
 
 h1, h2 {
@@ -38,6 +38,9 @@ button {
     color: white;
 }
 
+footer {
+    border-top: 2px solid red;
+}
 
 
 
