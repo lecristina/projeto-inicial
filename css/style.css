@@ -1,5 +1,17 @@
 /*Esta é uma regra SS3*/
-h1 {
+
+.cabecalho h1 {
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+/*h1 {
     color: red;
 }
 
@@ -7,13 +19,7 @@ h1 {
     display: inline;
     margin: 1%;
 }
-
-
-
-
-
-
-
+*/
 	/* CSS */
     /* {
         margin: 0;
