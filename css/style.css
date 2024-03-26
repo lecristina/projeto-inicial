@@ -1,5 +1,7 @@
 /*Esta é uma regra SS3*/
-
+* {
+    margin: auto;
+}
 .cabecalho h1 {
     background-color: blue;
 }
